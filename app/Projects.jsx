@@ -15,15 +15,24 @@ const projects = [
     github: "https://github.com/Shree767/fitness-guide-web",
     live: "https://fitness-guide-web.onrender.com",
   },
-  {
-    title: "Women Safety Android App",
-    category: "Mobile",
-    description:
-      "An Android app with SOS, live location sharing, siren, and emergency contacts.",
-    stack: ["Android", "Kotlin", "Google Maps API"],
-    github: "",
-    live: "",
-  },
+{
+  title: "Fitness Guide Web App",
+  category: "Web",
+  description:
+    "A modern gym website where users can explore workout programs, calculate BMI, and purchase membership plans online.",
+  stack: ["React", "Next.js", "Tailwind CSS", "JavaScript"],
+  github: "",
+  live: "",
+},
+{
+  title: "Fashion E-commerce Website",
+  category: "Web",
+  description:
+    "A responsive online fashion store with product listings, filtering, shopping cart functionality, and secure checkout flow.",
+  stack: ["React", "Next.js", "Tailwind CSS", "Stripe API"],
+  github: "",
+  live: "",
+},
   {
     title: "VISION – Android Safety App",
     category: "Android",
