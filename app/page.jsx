@@ -38,7 +38,7 @@ export default function Home() {
 
         <div className="flex items-center gap-8">
           <a
-  href="/ShreeCharan_Frontend_developer"
+  href="/ShreeCharan_Frontend_developer.pdf"
   download
   className="inline-flex"
 >
